@@ -1,0 +1,5 @@
+terraform.tfstate
+terraform.tfstate.backup
+.gitigonore
+.terraform.lock.hcl
+.terraform/
